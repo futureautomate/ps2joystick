@@ -1,2 +1,2 @@
 # ps2joystick
-interfacing ps2 joystick with arduinoi
+interfacing ps2 joystick with arduino
